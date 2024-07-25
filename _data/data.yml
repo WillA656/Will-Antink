@@ -173,24 +173,5 @@ languages:
       - name: SQL
         level: 85%
 
-skills:
-    title: Skills &amp; Proficiency
-    toolset:
-      - name: Data Visualization
-        level: 85%
-
-      - name: Selenium
-        level: 60%
-
-      - name: PowerBI
-        level: 85%   
-
-      - name: PySpark
-        level: 30%
-
-      - name: Survival Analysis
-        level: 60%
-
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
