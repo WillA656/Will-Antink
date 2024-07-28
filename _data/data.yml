@@ -161,8 +161,8 @@ publications:
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-languages:
-    title: Languages &amp; Proficiency
+planguages:
+    title: Programming Languages &amp; Proficiency
     toolset:
       - name: Python
         level: 80%
